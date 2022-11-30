@@ -1,9 +1,9 @@
-package com.spring.oauth2_resorceserver.controller;
+package com.spring.oauth2_resource_server.controller;
 
 import static org.apache.commons.lang3.RandomStringUtils.randomNumeric;
 import static org.apache.commons.lang3.RandomStringUtils.randomAlphabetic;
 
-import com.spring.oauth2_resorceserver.model.Food;
+import com.spring.oauth2_resource_server.model.Food;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

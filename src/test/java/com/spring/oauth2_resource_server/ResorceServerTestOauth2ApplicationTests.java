@@ -1,4 +1,4 @@
-package com.spring.oauth2_resorceserver;
+package com.spring.oauth2_resource_server;
 import static org.apache.commons.lang3.RandomStringUtils.randomNumeric;
 import static org.apache.commons.lang3.RandomStringUtils.randomAlphabetic;
 

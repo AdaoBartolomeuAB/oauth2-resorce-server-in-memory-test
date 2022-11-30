@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring</groupId>
-    <artifactId>oauth2-resorce-server-in-memory-test</artifactId>
+    <artifactId>oauth2-resource-server-in-memory-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>oauth2-resorce-server-in-memory-test</name>
-    <description>oauth2-resorce-server-in-memory-test</description>
+    <name>oauth2-resource-server-in-memory-test</name>
+    <description>oauth2-resource-server-in-memory-test</description>
     <properties>
         <java.version>11</java.version>
     </properties>

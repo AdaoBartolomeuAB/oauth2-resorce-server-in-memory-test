@@ -1,4 +1,4 @@
-package com.spring.oauth2_resorceserver.oauth;
+package com.spring.oauth2_resource_server.oauth;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

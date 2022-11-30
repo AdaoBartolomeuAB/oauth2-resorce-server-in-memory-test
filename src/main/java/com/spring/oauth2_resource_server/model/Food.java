@@ -1,4 +1,4 @@
-package com.spring.oauth2_resorceserver.model;
+package com.spring.oauth2_resource_server.model;
 
 
 import lombok.AllArgsConstructor;
